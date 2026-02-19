@@ -1,0 +1,5 @@
+[
+  "tests/test_file_renamer.py::TestRenamer::test_basic",
+  "tests/test_file_renamer.py::TestRenamer::test_empty",
+  "tests/test_file_renamer.py::TestRenamer::test_type_error"
+]
